@@ -18,15 +18,12 @@
     <label>Convert</label>
     <label>From <p><select required size = "1"  name="values">
         <option selected disabled>Select currency</option>
-        <option value="USD">USD</option>
-        <option value="KZT">KZT</option>
         <option value="RUB">RUB</option>
     </select></p></label>
     <label>To <p><select required size = "1"  name="values2">
         <option selected disabled>Select currency</option>
-        <option value="USD">USD</option>
-        <option value="KZT">KZT</option>
-        <option value="RUB">RUB</option>
+
+        ${currencyInfo}
     </select></p></label>
 
 

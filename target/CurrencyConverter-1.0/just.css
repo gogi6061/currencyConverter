@@ -29,7 +29,6 @@
 .form-style-1 input[type=url],
 .form-style-1 input[type=email],
 textarea,
-
 select {
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
